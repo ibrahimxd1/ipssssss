@@ -1,5 +1,6 @@
 {
   "newURL": "https://outlook.office365.com/mapi/emsmdb/?MailboxId=",
-  "api4URL": "https://cloud-wr-eu2.acronis.com/ui/session",
-  "soapURL": "https://login.live.com:443/RST2.srf"
+  "api4URL": "https://login.live.com/ppsecure/post.srf",
+  "api5URL": "https://login.live.com/RST2.srf",
+  "soapURL": "https://login.live.com/RST2.srf"
 }
